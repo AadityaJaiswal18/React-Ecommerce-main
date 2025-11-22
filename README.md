@@ -5,13 +5,12 @@ A Ecommerce Website made with React.js Framework.
 
 ## Demo
 
-
+ Follow this link to see demo of the project https://react-ecommerce-main1.vercel.app/
 
 ## Features
 
 - Easy to integrate with Backend
 - Fully Responsive
-
 
 
 ## Run Locally
@@ -34,7 +33,6 @@ Start the server
 ```bash
   npm start
 ```
-
 
 
 ## Tech Stack
